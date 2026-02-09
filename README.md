@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" alt="header" />
-</div> -->
+<div align="center">
+  <img src="https://i.pinimg.com/736x/04/c1/3b/04c13b4737c2038caa908eda2be6795e.jpg" alt="header" />
+</div> 
 
 <h1 align="center">Hello, I'm Prajyot </h1>
 
@@ -81,6 +81,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bprajyot&icon=5&color=0A66C2" alt="Visitors" /><br><br>
   <strong>Fueled by questionable decisions, infinite tabs, and the rare "it finally works" dopamine hit</strong>
 </div>
