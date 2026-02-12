@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/04/c1/3b/04c13b4737c2038caa908eda2be6795e.jpg" alt="header" />
+  <img src="https://i.pinimg.com/1200x/2f/f6/57/2ff6573ae61ee84e3093ca84497162e8.jpg" alt="header" />
 </div> 
 
 <h1 align="center">Hello, I'm Prajyot </h1>
