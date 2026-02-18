@@ -50,6 +50,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A5E?style=for-the-badge&logo=langchain&logoColor=00B8D9)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=langchain&logoColor=00B8D9)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3A5E?style=for-the-badge&logo=langchain&logoColor=00B8D9)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Backend**  
@@ -58,7 +59,7 @@
 
 **Frontend & Tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Database and BaaS**  
@@ -82,4 +83,6 @@
 
 <div align="center">
   <strong>Fueled by questionable decisions, infinite tabs, and the rare "it finally works" dopamine hit</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=bprajyot&label=Profile%20Visitors&color=0e75b6&style=flat" alt="visitor counter"/>
 </div>
